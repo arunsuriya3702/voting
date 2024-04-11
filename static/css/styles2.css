@@ -1,0 +1,17 @@
+html, body {
+    height:100%;
+    padding: 0;
+    margin: 0;
+    color: white;
+  }
+html{
+    background-image: url('../imG/aa5058e8886a2a2983442f8934ba17b0.jpg');
+    background-size: cover;
+}
+body {
+    background: rgba(250, 248, 248, 0);
+}
+#home-content{
+    text-align: center;
+    padding-top: 20%;
+}

@@ -1,0 +1,17 @@
+html, body {
+    height:100%;
+    padding: 0;
+    margin: 0;
+    color: white;
+  }
+html{
+    background-image: url('../img/R.jfif');
+    background-size: cover;
+}
+body {
+    background: rgba(253, 253, 253, 0);
+}
+#home-content{
+    text-align: center;
+    padding-top: 20%;
+}

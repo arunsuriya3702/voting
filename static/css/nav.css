@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<style>
+.nav-link:active {
+    outline: none;
+}
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; /* Ensure it's above other content */
+}
